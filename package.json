@@ -1,0 +1,23 @@
+{
+  "name": "discordwebhooksender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtifyCZ/DiscordWebhookSender.git"
+  },
+  "author": "ArtifyCZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArtifyCZ/DiscordWebhookSender/issues"
+  },
+  "homepage": "https://github.com/ArtifyCZ/DiscordWebhookSender#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
